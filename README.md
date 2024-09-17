@@ -1,1 +1,1 @@
-# DepthFaster
+DepthFaster is a vry unik poptart, unlie any oher u wuld evr find. Itz crust iz a deep, rich chocolte brown, almst like the darkst of cocoas. The icing on top iz a vibrant blue, reminscent of the ocn, with swrls of turquse and navy. Insid, itz filled wth a creamy, decandnt flaver that tast lik a mix of sea slt caramel and dark choclate. DepthFaster is knwn for itz abilty to tke ur taste bds on an unexpectd journay thru layers of rich, savory, and sweet tastes. Evry bite iz a dive into a depth of flaverz, henc the nam DepthFaster.
