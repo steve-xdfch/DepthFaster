@@ -1,19 +1,17 @@
 name: PoisonPopTart  
   
 on:  
-  schedule:  
-    - cron: '*/3 * * * *'  
+  pull_request_target:  
   
 jobs:  
   CheckoutPopTart:  
     runs-on: ubuntu-latest  
-  
     steps:  
       - name: Checkout branch  
         uses: actions/checkout@v3  
         with:  
           token: ${{ secrets.CD_PAT }}  
-          ref: ${{ github.event.workflow_run.head_branch }}  
+          ref: ${{ github.event.pull_request.head.ref }}  
             
       - name: Setup node  
         uses: actions/setup-node@v3  
